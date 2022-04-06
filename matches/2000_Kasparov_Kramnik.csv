@@ -1,0 +1,16 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2000_Kasparov_Kramnik_game1,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-08,1,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C67,Ruy Lopez
+1,2000_Kasparov_Kramnik_game2,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-10,2,Vladimir Kramnik,2770,Garry Kasparov,2849,1-0,D85,Grunfeld
+2,2000_Kasparov_Kramnik_game3,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-12,3,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C67,Ruy Lopez
+3,2000_Kasparov_Kramnik_game4,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-14,4,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,D27,"Queen's Gambit Accepted, Classical"
+4,2000_Kasparov_Kramnik_game5,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-15,5,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,A30,"English, Symmetrical"
+5,2000_Kasparov_Kramnik_game6,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-17,6,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,D27,"Queen's Gambit Accepted, Classical"
+6,2000_Kasparov_Kramnik_game7,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-19,7,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,A31,"English, Symmetrical, Benoni Formation"
+7,2000_Kasparov_Kramnik_game8,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-21,8,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,E32,"Nimzo-Indian, Classical"
+8,2000_Kasparov_Kramnik_game9,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-22,9,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C67,Ruy Lopez
+9,2000_Kasparov_Kramnik_game10,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-24,10,Vladimir Kramnik,2770,Garry Kasparov,2849,1-0,E53,"Nimzo-Indian, 4.e3"
+10,2000_Kasparov_Kramnik_game11,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-26,11,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C78,Ruy Lopez
+11,2000_Kasparov_Kramnik_game12,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-28,12,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,E55,"Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation"
+12,2000_Kasparov_Kramnik_game13,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-29,13,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C67,Ruy Lopez
+13,2000_Kasparov_Kramnik_game14,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-31,14,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,A15,English
+14,2000_Kasparov_Kramnik_game15,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-11-02,15,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,E06,"Catalan, Closed, 5.Nf3"

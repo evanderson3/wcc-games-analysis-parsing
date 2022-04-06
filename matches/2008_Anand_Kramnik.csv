@@ -1,0 +1,12 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2008_Anand_Kramnik_game1,Anand - Kramnik World Championship Match,Bonn GER,2008-10-14,1,Vladimir Kramnik,?,Viswanathan Anand,?,1/2-1/2,D14,"Queen's Gambit Declined Slav, Exchange Variation"
+1,2008_Anand_Kramnik_game2,Anand - Kramnik World Championship Match,Bonn GER,2008-10-15,2,Viswanathan Anand,?,Vladimir Kramnik,?,1/2-1/2,E25,"Nimzo-Indian, Samisch"
+2,2008_Anand_Kramnik_game3,Anand - Kramnik World Championship Match,Bonn GER,2008-10-17,3,Vladimir Kramnik,?,Viswanathan Anand,?,0-1,D49,"Queen's Gambit Declined Semi-Slav, Meran"
+3,2008_Anand_Kramnik_game4,Anand - Kramnik World Championship Match,Bonn GER,2008-10-18,4,Viswanathan Anand,2803,Vladimir Kramnik,2811,1/2-1/2,D37,Queen's Gambit Declined
+4,2008_Anand_Kramnik_game5,Anand - Kramnik World Championship Match,Bonn GER,2008-10-20,5,Vladimir Kramnik,?,Viswanathan Anand,?,0-1,D49,"Queen's Gambit Declined Semi-Slav, Meran"
+5,2008_Anand_Kramnik_game6,Anand - Kramnik World Championship Match,Bonn GER,2008-10-21,6,Viswanathan Anand,?,Vladimir Kramnik,?,1-0,E34,"Nimzo-Indian, Classical, Noa Variation"
+6,2008_Anand_Kramnik_game7,Anand - Kramnik World Championship Match,Bonn GER,2008-10-22,7,Viswanathan Anand,?,Vladimir Kramnik,?,1/2-1/2,D18,"Queen's Gambit Declined Slav, Dutch"
+7,2008_Anand_Kramnik_game8,Anand - Kramnik World Championship Match,Bonn GER,2008-10-23,8,Vladimir Kramnik,2772,Viswanathan Anand,2783,1/2-1/2,D39,"Queen's Gambit Declined, Ragozin, Vienna Variation"
+8,2008_Anand_Kramnik_game9,Anand - Kramnik World Championship Match,Bonn GER,2008-10-26,9,Viswanathan Anand,2783,Vladimir Kramnik,2772,1/2-1/2,D44,Queen's Gambit Declined Semi-Slav
+9,2008_Anand_Kramnik_game10,Anand - Kramnik World Championship Match,Bonn GER,2008-10-27,10,Vladimir Kramnik,2772,Viswanathan Anand,2783,1-0,E20,Nimzo-Indian
+10,2008_Anand_Kramnik_game11,Anand - Kramnik World Championship Match,Bonn GER,2008-10-29,11,Viswanathan Anand,2783,Vladimir Kramnik,2772,1/2-1/2,B96,"Sicilian, Najdorf"

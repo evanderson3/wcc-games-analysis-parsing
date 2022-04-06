@@ -1,0 +1,12 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2021_Carlsen_Nepomniachtchi_game1,Carlsen - Nepomniachtchi World Championship Match,Dubai UAE,2021-11-26,1,Ian Nepomniachtchi,2782,Magnus Carlsen,2855,1/2-1/2,C88,Ruy Lopez
+1,2021_Carlsen_Nepomniachtchi_game2,Carlsen - Nepomniachtchi World Championship Match,Dubai UAE,2021-11-27,2,Magnus Carlsen,2855,Ian Nepomniachtchi,2782,1/2-1/2,E06,"Catalan, Closed, 5.Nf3"
+2,2021_Carlsen_Nepomniachtchi_game3,Carlsen - Nepomniachtchi World Championship Match,Dubai UAE,2021-11-28,3,Ian Nepomniachtchi,2782,Magnus Carlsen,2855,1/2-1/2,C88,Ruy Lopez
+3,2021_Carlsen_Nepomniachtchi_game4,FIDE World Championship 2021,Dubai UAE,2021-11-30,4.1,Magnus Carlsen,2855,Ian Nepomniachtchi,2782,1/2-1/2,C42,Petrov Defense
+4,2021_Carlsen_Nepomniachtchi_game5,FIDE World Championship 2021,Dubai UAE,2021-12-01,5.1,Ian Nepomniachtchi,2782,Magnus Carlsen,2855,1/2-1/2,A00,Uncommon Opening
+5,2021_Carlsen_Nepomniachtchi_game6,FIDE World Championship 2021,Dubai UAE,2021-12-03,6.1,"Carlsen, Magnus",2855,"Nepomniachtchi, Ian",2782,1-0,D02,Queen's Pawn Game
+6,2021_Carlsen_Nepomniachtchi_game7,FIDE World Championship 2021,Dubai UAE,2021-12-04,7.1,"Nepomniachtchi, Ian",2782,"Carlsen, Magnus",2855,1/2-1/2,C88,Ruy Lopez
+7,2021_Carlsen_Nepomniachtchi_game8,FIDE World Championship 2021,Dubai UAE,2021-12-05,8.1,"Carlsen, Magnus",2855,"Nepomniachtchi, Ian",2782,1-0,C43,"Petrov, Modern Attack"
+8,2021_Carlsen_Nepomniachtchi_game9,FIDE World Championship 2021,Dubai UAE,2021-12-07,9.1,"Nepomniachtchi, Ian",2782,"Carlsen, Magnus",2855,0-1,A13,English
+9,2021_Carlsen_Nepomniachtchi_game10,FIDE World Championship 2021,Dubai UAE,2021-12-08,10.1,"Carlsen, Magnus",2855,"Nepomniachtchi, Ian",2782,1/2-1/2,C42,Petrov Defense
+10,2021_Carlsen_Nepomniachtchi_game11,FIDE World Championship 2021,Dubai UAE,2021-12-10,11.1,"Nepomniachtchi, Ian",2782,"Carlsen, Magnus",2855,0-1,C53,Giuoco Piano

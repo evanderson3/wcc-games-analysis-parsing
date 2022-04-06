@@ -1,0 +1,12 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2014_Carlsen_Anand_game1,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-08,1,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,D85,Grunfeld
+1,2014_Carlsen_Anand_game2,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-09,2,Magnus Carlsen,?,Viswanathan Anand,?,1-0,C65,"Ruy Lopez, Berlin Defense"
+2,2014_Carlsen_Anand_game3,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-11,3,Viswanathan Anand,?,Magnus Carlsen,?,1-0,D37,Queen's Gambit Declined
+3,2014_Carlsen_Anand_game4,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-12,4,Magnus Carlsen,?,Viswanathan Anand,?,1/2-1/2,A07,King's Indian Attack
+4,2014_Carlsen_Anand_game5,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-14,5,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,E15,Queen's Indian
+5,2014_Carlsen_Anand_game6,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-15,6,Magnus Carlsen,?,Viswanathan Anand,?,1-0,B41,"Sicilian, Kan"
+6,2014_Carlsen_Anand_game7,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-17,7,Magnus Carlsen,?,Viswanathan Anand,?,1/2-1/2,C67,Ruy Lopez
+7,2014_Carlsen_Anand_game8,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-18,8,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,D37,Queen's Gambit Declined
+8,2014_Carlsen_Anand_game9,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-20,9,Magnus Carlsen,?,Viswanathan Anand,?,1/2-1/2,C67,Ruy Lopez
+9,2014_Carlsen_Anand_game10,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-21,10,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,D97,"Grunfeld, Russian"
+10,2014_Carlsen_Anand_game11,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-23,11,Magnus Carlsen,?,Viswanathan Anand,?,1-0,C67,Ruy Lopez

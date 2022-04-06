@@ -1,0 +1,15 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2004_Kramnik_Leko_game1,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-09-25,1,Peter Leko,?,Vladimir Kramnik,?,0-1,C42,Petrov Defense
+1,2004_Kramnik_Leko_game2,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-09-26,2,Vladimir Kramnik,2770,Peter Leko,2741,1/2-1/2,C84,"Ruy Lopez, Closed"
+2,2004_Kramnik_Leko_game3,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-09-28,3,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,C42,Petrov Defense
+3,2004_Kramnik_Leko_game4,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-09-30,4,Vladimir Kramnik,?,Peter Leko,?,1/2-1/2,C84,"Ruy Lopez, Closed"
+4,2004_Kramnik_Leko_game5,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-02,5,Peter Leko,?,Vladimir Kramnik,?,1-0,D37,Queen's Gambit Declined
+5,2004_Kramnik_Leko_game6,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-03,6,Vladimir Kramnik,?,Peter Leko,?,1/2-1/2,C84,"Ruy Lopez, Closed"
+6,2004_Kramnik_Leko_game7,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-05,7,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,D16,Queen's Gambit Declined Slav
+7,2004_Kramnik_Leko_game8,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-07,8,Vladimir Kramnik,?,Peter Leko,?,0-1,C89,"Ruy Lopez, Marshall"
+8,2004_Kramnik_Leko_game9,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-09,9,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,E15,Queen's Indian
+9,2004_Kramnik_Leko_game10,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-10,10,Vladimir Kramnik,?,Peter Leko,?,1/2-1/2,C78,Ruy Lopez
+10,2004_Kramnik_Leko_game11,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-12,11,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,E15,Queen's Indian
+11,2004_Kramnik_Leko_game12,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-14,12,Vladimir Kramnik,?,Peter Leko,?,1/2-1/2,B18,"Caro-Kann, Classical"
+12,2004_Kramnik_Leko_game13,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-16,13,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,A61,Benoni
+13,2004_Kramnik_Leko_game14,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-18,14,Vladimir Kramnik,?,Peter Leko,?,1-0,B12,Caro-Kann Defense

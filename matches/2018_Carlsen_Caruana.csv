@@ -1,0 +1,16 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2018_Carlsen_Caruana_game1,Carlsen - Caruana World Championship Match,London ENG,2018-11-09,1,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B31,"Sicilian, Rossolimo Variation"
+1,2018_Carlsen_Caruana_game2,Carlsen - Caruana World Championship Match,London ENG,2018-11-10,2,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,D37,Queen's Gambit Declined
+2,2018_Carlsen_Caruana_game3,Carlsen - Caruana World Championship Match,London ENG,2018-11-12,3,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B31,"Sicilian, Rossolimo Variation"
+3,2018_Carlsen_Caruana_game4,Carlsen - Caruana World Championship Match,London ENG,2018-11-13,4,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,A29,"English, Four Knights, Kingside Fianchetto"
+4,2018_Carlsen_Caruana_game5,Carlsen - Caruana World Championship Match,London ENG,2018-11-15,5,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B31,"Sicilian, Rossolimo Variation"
+5,2018_Carlsen_Caruana_game6,Carlsen - Caruana World Championship Match,London ENG,2018-11-16,6,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,C42,Petrov Defense
+6,2018_Carlsen_Caruana_game7,Carlsen - Caruana World Championship Match,London ENG,2018-11-18,7,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,D37,Queen's Gambit Declined
+7,2018_Carlsen_Caruana_game8,Carlsen - Caruana World Championship Match,London ENG,2018-11-19,8,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B33,Sicilian
+8,2018_Carlsen_Caruana_game9,Carlsen - Caruana World Championship Match,London ENG,2018-11-21,9,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,A29,"English, Four Knights, Kingside Fianchetto"
+9,2018_Carlsen_Caruana_game10,Carlsen - Caruana World Championship Match,London ENG,2018-11-22,10,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B33,Sicilian
+10,2018_Carlsen_Caruana_game11,Carlsen - Caruana World Championship Match,London ENG,2018-11-24,11,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,C42,Petrov Defense
+11,2018_Carlsen_Caruana_game12,Carlsen - Caruana World Championship Match,London ENG,2018-11-26,12,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B33,Sicilian
+12,2018_Carlsen_Caruana_game13,Carlsen - Caruana World Championship Match,London ENG,2018-11-28,13.3,Magnus Carlsen,?,Fabiano Caruana,?,1-0,B40,Sicilian
+13,2018_Carlsen_Caruana_game14,Carlsen - Caruana World Championship Match,London ENG,2018-11-28,13.2,Fabiano Caruana,?,Magnus Carlsen,?,0-1,B33,Sicilian
+14,2018_Carlsen_Caruana_game15,Carlsen - Caruana World Championship Match,London ENG,2018-11-28,13.1,Magnus Carlsen,?,Fabiano Caruana,?,1-0,A22,English

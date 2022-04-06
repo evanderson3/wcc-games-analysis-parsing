@@ -1,0 +1,13 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2010_Anand_Topalov_game1,Anand - Topalov World Championship Match,Sofia BUL,2010-04-24,1,Veselin Topalov,2805,Viswanathan Anand,2787,1-0,D86,"Grunfeld, Exchange"
+1,2010_Anand_Topalov_game2,Anand - Topalov World Championship Match,Sofia BUL,2010-04-25,2,Viswanathan Anand,2787,Veselin Topalov,2805,1-0,E04,"Catalan, Open, 5.Nf3"
+2,2010_Anand_Topalov_game3,Anand - Topalov World Championship Match,Sofia BUL,2010-04-27,3,Veselin Topalov,2805,Viswanathan Anand,2787,1/2-1/2,D17,Queen's Gambit Declined Slav
+3,2010_Anand_Topalov_game4,Anand - Topalov World Championship Match,Sofia BUL,2010-04-28,4,Viswanathan Anand,2787,Veselin Topalov,2805,1-0,E04,"Catalan, Open, 5.Nf3"
+4,2010_Anand_Topalov_game5,Anand - Topalov World Championship Match,Sofia BUL,2010-04-30,5,Veselin Topalov,2805,Viswanathan Anand,2787,1/2-1/2,D17,Queen's Gambit Declined Slav
+5,2010_Anand_Topalov_game6,Anand - Topalov World Championship Match,Sofia BUL,2010-05-01,6,Viswanathan Anand,2787,Veselin Topalov,2805,1/2-1/2,E04,"Catalan, Open, 5.Nf3"
+6,2010_Anand_Topalov_game7,Anand - Topalov World Championship Match,Sofia BUL,2010-05-03,7,Viswanathan Anand,2787,Veselin Topalov,2805,1/2-1/2,E10,Queen's Pawn Game
+7,2010_Anand_Topalov_game8,Anand - Topalov World Championship Match,Sofia BUL,2010-05-04,8,Veselin Topalov,2805,Viswanathan Anand,2787,1-0,D17,Queen's Gambit Declined Slav
+8,2010_Anand_Topalov_game9,Anand - Topalov World Championship Match,Sofia BUL,2010-05-06,9,Viswanathan Anand,2787,Veselin Topalov,2805,1/2-1/2,E53,"Nimzo-Indian, 4.e3"
+9,2010_Anand_Topalov_game10,Anand - Topalov World Championship Match,Sofia BUL,2010-05-07,10,Veselin Topalov,2805,Viswanathan Anand,2787,1/2-1/2,D86,"Grunfeld, Exchange"
+10,2010_Anand_Topalov_game11,Anand - Topalov World Championship Match,Sofia BUL,2010-05-09,11,Viswanathan Anand,2787,Veselin Topalov,2805,1/2-1/2,A29,"English, Four Knights, Kingside Fianchetto"
+11,2010_Anand_Topalov_game12,Anand - Topalov World Championship Match,Sofia BUL,2010-05-11,12,Veselin Topalov,2805,Viswanathan Anand,2787,0-1,D56,Queen's Gambit Declined

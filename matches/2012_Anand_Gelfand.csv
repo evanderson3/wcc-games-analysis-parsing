@@ -1,0 +1,17 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2012_Anand_Gelfand_game1,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-11,1,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,D85,Grunfeld
+1,2012_Anand_Gelfand_game2,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-12,2,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D45,Queen's Gambit Declined Semi-Slav
+2,2012_Anand_Gelfand_game3,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-14,3,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,D70,Neo-Grunfeld Defense
+3,2012_Anand_Gelfand_game4,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-15,4,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D45,Queen's Gambit Declined Semi-Slav
+4,2012_Anand_Gelfand_game5,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-17,5,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,B33,Sicilian
+5,2012_Anand_Gelfand_game6,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-18,6,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D45,Queen's Gambit Declined Semi-Slav
+6,2012_Anand_Gelfand_game7,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-20,7,Boris Gelfand,?,Viswanathan Anand,?,1-0,D45,Queen's Gambit Declined Semi-Slav
+7,2012_Anand_Gelfand_game8,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-21,8,Viswanathan Anand,?,Boris Gelfand,?,1-0,D70,Neo-Grunfeld Defense
+8,2012_Anand_Gelfand_game9,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-23,9,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,E54,"Nimzo-Indian, 4.e3, Gligoric System"
+9,2012_Anand_Gelfand_game10,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-24,10,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,B30,Sicilian
+10,2012_Anand_Gelfand_game11,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-26,11,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,E54,"Nimzo-Indian, 4.e3, Gligoric System"
+11,2012_Anand_Gelfand_game12,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-28,12,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,B30,Sicilian
+12,2012_Anand_Gelfand_game13,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-30,13,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D45,Queen's Gambit Declined Semi-Slav
+13,2012_Anand_Gelfand_game14,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-30,14,Viswanathan Anand,?,Boris Gelfand,?,1-0,B30,Sicilian
+14,2012_Anand_Gelfand_game15,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-30,15,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D12,Queen's Gambit Declined Slav
+15,2012_Anand_Gelfand_game16,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-30,16,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,B51,"Sicilian, Canal-Sokolsky (Rossolimo) Attack"

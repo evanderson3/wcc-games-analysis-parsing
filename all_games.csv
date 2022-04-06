@@ -1,0 +1,147 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2008_Anand_Kramnik_game1,Anand - Kramnik World Championship Match,Bonn GER,2008-10-14,1,Vladimir Kramnik,?,Viswanathan Anand,?,1/2-1/2,D14,"Queen's Gambit Declined Slav, Exchange Variation"
+1,2008_Anand_Kramnik_game2,Anand - Kramnik World Championship Match,Bonn GER,2008-10-15,2,Viswanathan Anand,?,Vladimir Kramnik,?,1/2-1/2,E25,"Nimzo-Indian, Samisch"
+2,2008_Anand_Kramnik_game3,Anand - Kramnik World Championship Match,Bonn GER,2008-10-17,3,Vladimir Kramnik,?,Viswanathan Anand,?,0-1,D49,"Queen's Gambit Declined Semi-Slav, Meran"
+3,2008_Anand_Kramnik_game4,Anand - Kramnik World Championship Match,Bonn GER,2008-10-18,4,Viswanathan Anand,2803,Vladimir Kramnik,2811,1/2-1/2,D37,Queen's Gambit Declined
+4,2008_Anand_Kramnik_game5,Anand - Kramnik World Championship Match,Bonn GER,2008-10-20,5,Vladimir Kramnik,?,Viswanathan Anand,?,0-1,D49,"Queen's Gambit Declined Semi-Slav, Meran"
+5,2008_Anand_Kramnik_game6,Anand - Kramnik World Championship Match,Bonn GER,2008-10-21,6,Viswanathan Anand,?,Vladimir Kramnik,?,1-0,E34,"Nimzo-Indian, Classical, Noa Variation"
+6,2008_Anand_Kramnik_game7,Anand - Kramnik World Championship Match,Bonn GER,2008-10-22,7,Viswanathan Anand,?,Vladimir Kramnik,?,1/2-1/2,D18,"Queen's Gambit Declined Slav, Dutch"
+7,2008_Anand_Kramnik_game8,Anand - Kramnik World Championship Match,Bonn GER,2008-10-23,8,Vladimir Kramnik,2772,Viswanathan Anand,2783,1/2-1/2,D39,"Queen's Gambit Declined, Ragozin, Vienna Variation"
+8,2008_Anand_Kramnik_game9,Anand - Kramnik World Championship Match,Bonn GER,2008-10-26,9,Viswanathan Anand,2783,Vladimir Kramnik,2772,1/2-1/2,D44,Queen's Gambit Declined Semi-Slav
+9,2008_Anand_Kramnik_game10,Anand - Kramnik World Championship Match,Bonn GER,2008-10-27,10,Vladimir Kramnik,2772,Viswanathan Anand,2783,1-0,E20,Nimzo-Indian
+10,2008_Anand_Kramnik_game11,Anand - Kramnik World Championship Match,Bonn GER,2008-10-29,11,Viswanathan Anand,2783,Vladimir Kramnik,2772,1/2-1/2,B96,"Sicilian, Najdorf"
+11,2018_Carlsen_Caruana_game1,Carlsen - Caruana World Championship Match,London ENG,2018-11-09,1,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B31,"Sicilian, Rossolimo Variation"
+12,2018_Carlsen_Caruana_game2,Carlsen - Caruana World Championship Match,London ENG,2018-11-10,2,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,D37,Queen's Gambit Declined
+13,2018_Carlsen_Caruana_game3,Carlsen - Caruana World Championship Match,London ENG,2018-11-12,3,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B31,"Sicilian, Rossolimo Variation"
+14,2018_Carlsen_Caruana_game4,Carlsen - Caruana World Championship Match,London ENG,2018-11-13,4,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,A29,"English, Four Knights, Kingside Fianchetto"
+15,2018_Carlsen_Caruana_game5,Carlsen - Caruana World Championship Match,London ENG,2018-11-15,5,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B31,"Sicilian, Rossolimo Variation"
+16,2018_Carlsen_Caruana_game6,Carlsen - Caruana World Championship Match,London ENG,2018-11-16,6,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,C42,Petrov Defense
+17,2018_Carlsen_Caruana_game7,Carlsen - Caruana World Championship Match,London ENG,2018-11-18,7,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,D37,Queen's Gambit Declined
+18,2018_Carlsen_Caruana_game8,Carlsen - Caruana World Championship Match,London ENG,2018-11-19,8,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B33,Sicilian
+19,2018_Carlsen_Caruana_game9,Carlsen - Caruana World Championship Match,London ENG,2018-11-21,9,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,A29,"English, Four Knights, Kingside Fianchetto"
+20,2018_Carlsen_Caruana_game10,Carlsen - Caruana World Championship Match,London ENG,2018-11-22,10,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B33,Sicilian
+21,2018_Carlsen_Caruana_game11,Carlsen - Caruana World Championship Match,London ENG,2018-11-24,11,Magnus Carlsen,?,Fabiano Caruana,?,1/2-1/2,C42,Petrov Defense
+22,2018_Carlsen_Caruana_game12,Carlsen - Caruana World Championship Match,London ENG,2018-11-26,12,Fabiano Caruana,?,Magnus Carlsen,?,1/2-1/2,B33,Sicilian
+23,2018_Carlsen_Caruana_game13,Carlsen - Caruana World Championship Match,London ENG,2018-11-28,13.3,Magnus Carlsen,?,Fabiano Caruana,?,1-0,B40,Sicilian
+24,2018_Carlsen_Caruana_game14,Carlsen - Caruana World Championship Match,London ENG,2018-11-28,13.2,Fabiano Caruana,?,Magnus Carlsen,?,0-1,B33,Sicilian
+25,2018_Carlsen_Caruana_game15,Carlsen - Caruana World Championship Match,London ENG,2018-11-28,13.1,Magnus Carlsen,?,Fabiano Caruana,?,1-0,A22,English
+26,2006_Kramnik_Topalov_game1,Kramnik - Topalov World Championship Match,Elista RUS,2006-09-23,1,Vladimir Kramnik,2743,Veselin Topalov,2813,1-0,E04,"Catalan, Open, 5.Nf3"
+27,2006_Kramnik_Topalov_game2,Kramnik - Topalov World Championship Match,Elista RUS,2006-09-24,2,Veselin Topalov,?,Vladimir Kramnik,?,0-1,D18,"Queen's Gambit Declined Slav, Dutch"
+28,2006_Kramnik_Topalov_game3,Kramnik - Topalov World Championship Match,Elista RUS,2006-09-26,3,Vladimir Kramnik,?,Veselin Topalov,?,1/2-1/2,E04,"Catalan, Open, 5.Nf3"
+29,2006_Kramnik_Topalov_game4,Kramnik - Topalov World Championship Match,Elista RUS,2006-09-27,4,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D47,Queen's Gambit Declined Semi-Slav
+30,2006_Kramnik_Topalov_game5,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-02,6,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D17,Queen's Gambit Declined Slav
+31,2006_Kramnik_Topalov_game6,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-04,7,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D27,"Queen's Gambit Accepted, Classical"
+32,2006_Kramnik_Topalov_game7,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-05,8,Vladimir Kramnik,?,Veselin Topalov,?,0-1,D47,Queen's Gambit Declined Semi-Slav
+33,2006_Kramnik_Topalov_game8,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-07,9,Veselin Topalov,?,Vladimir Kramnik,?,1-0,D12,Queen's Gambit Declined Slav
+34,2006_Kramnik_Topalov_game9,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-08,10,Vladimir Kramnik,?,Veselin Topalov,?,1-0,E10,Queen's Pawn Game
+35,2006_Kramnik_Topalov_game10,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-10,11,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D12,Queen's Gambit Declined Slav
+36,2006_Kramnik_Topalov_game11,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-12,12,Vladimir Kramnik,?,Veselin Topalov,?,1/2-1/2,D12,Queen's Gambit Declined Slav
+37,2006_Kramnik_Topalov_game12,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-13,13,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D18,"Queen's Gambit Declined Slav, Dutch"
+38,2006_Kramnik_Topalov_game13,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-13,14,Vladimir Kramnik,?,Veselin Topalov,?,1-0,D45,Queen's Gambit Declined Semi-Slav
+39,2006_Kramnik_Topalov_game14,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-13,15,Veselin Topalov,?,Vladimir Kramnik,?,1-0,D12,Queen's Gambit Declined Slav
+40,2006_Kramnik_Topalov_game15,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-13,16,Vladimir Kramnik,?,Veselin Topalov,?,1-0,D47,Queen's Gambit Declined Semi-Slav
+41,2004_Kramnik_Leko_game1,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-09-25,1,Peter Leko,?,Vladimir Kramnik,?,0-1,C42,Petrov Defense
+42,2004_Kramnik_Leko_game2,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-09-26,2,Vladimir Kramnik,2770,Peter Leko,2741,1/2-1/2,C84,"Ruy Lopez, Closed"
+43,2004_Kramnik_Leko_game3,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-09-28,3,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,C42,Petrov Defense
+44,2004_Kramnik_Leko_game4,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-09-30,4,Vladimir Kramnik,?,Peter Leko,?,1/2-1/2,C84,"Ruy Lopez, Closed"
+45,2004_Kramnik_Leko_game5,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-02,5,Peter Leko,?,Vladimir Kramnik,?,1-0,D37,Queen's Gambit Declined
+46,2004_Kramnik_Leko_game6,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-03,6,Vladimir Kramnik,?,Peter Leko,?,1/2-1/2,C84,"Ruy Lopez, Closed"
+47,2004_Kramnik_Leko_game7,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-05,7,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,D16,Queen's Gambit Declined Slav
+48,2004_Kramnik_Leko_game8,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-07,8,Vladimir Kramnik,?,Peter Leko,?,0-1,C89,"Ruy Lopez, Marshall"
+49,2004_Kramnik_Leko_game9,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-09,9,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,E15,Queen's Indian
+50,2004_Kramnik_Leko_game10,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-10,10,Vladimir Kramnik,?,Peter Leko,?,1/2-1/2,C78,Ruy Lopez
+51,2004_Kramnik_Leko_game11,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-12,11,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,E15,Queen's Indian
+52,2004_Kramnik_Leko_game12,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-14,12,Vladimir Kramnik,?,Peter Leko,?,1/2-1/2,B18,"Caro-Kann, Classical"
+53,2004_Kramnik_Leko_game13,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-16,13,Peter Leko,?,Vladimir Kramnik,?,1/2-1/2,A61,Benoni
+54,2004_Kramnik_Leko_game14,Kramnik - Leko Classical World Championship Match,Brissago SUI,2004-10-18,14,Vladimir Kramnik,?,Peter Leko,?,1-0,B12,Caro-Kann Defense
+55,2016_Carlsen_Karjakin_game1,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-11,1,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,A45,Queen's Pawn Game
+56,2016_Carlsen_Karjakin_game2,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-12,2,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C78,Ruy Lopez
+57,2016_Carlsen_Karjakin_game3,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-14,3,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,C67,Ruy Lopez
+58,2016_Carlsen_Karjakin_game4,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-15,4,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C84,"Ruy Lopez, Closed"
+59,2016_Carlsen_Karjakin_game5,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-17,5,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,C50,Giuoco Piano
+60,2016_Carlsen_Karjakin_game6,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-18,6,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C84,"Ruy Lopez, Closed"
+61,2016_Carlsen_Karjakin_game7,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-20,7,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,D10,Queen's Gambit Declined Slav
+62,2016_Carlsen_Karjakin_game8,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-21,8,Magnus Carlsen,?,Sergey Karjakin,?,0-1,D05,Queen's Pawn Game
+63,2016_Carlsen_Karjakin_game9,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-23,9,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C78,Ruy Lopez
+64,2016_Carlsen_Karjakin_game10,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-24,10,Magnus Carlsen,?,Sergey Karjakin,?,1-0,C65,"Ruy Lopez, Berlin Defense"
+65,2016_Carlsen_Karjakin_game11,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-26,11,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C78,Ruy Lopez
+66,2016_Carlsen_Karjakin_game12,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-28,12,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,C67,Ruy Lopez
+67,2016_Carlsen_Karjakin_game13,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-30,13.1,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C78,Ruy Lopez
+68,2016_Carlsen_Karjakin_game14,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-30,13.2,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,C50,Giuoco Piano
+69,2016_Carlsen_Karjakin_game15,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-30,13.3,Sergey Karjakin,?,Magnus Carlsen,?,0-1,C78,Ruy Lopez
+70,2016_Carlsen_Karjakin_game16,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-30,13.4,Magnus Carlsen,?,Sergey Karjakin,?,1-0,B54,Sicilian
+71,2000_Kasparov_Kramnik_game1,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-08,1,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C67,Ruy Lopez
+72,2000_Kasparov_Kramnik_game2,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-10,2,Vladimir Kramnik,2770,Garry Kasparov,2849,1-0,D85,Grunfeld
+73,2000_Kasparov_Kramnik_game3,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-12,3,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C67,Ruy Lopez
+74,2000_Kasparov_Kramnik_game4,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-14,4,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,D27,"Queen's Gambit Accepted, Classical"
+75,2000_Kasparov_Kramnik_game5,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-15,5,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,A30,"English, Symmetrical"
+76,2000_Kasparov_Kramnik_game6,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-17,6,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,D27,"Queen's Gambit Accepted, Classical"
+77,2000_Kasparov_Kramnik_game7,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-19,7,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,A31,"English, Symmetrical, Benoni Formation"
+78,2000_Kasparov_Kramnik_game8,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-21,8,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,E32,"Nimzo-Indian, Classical"
+79,2000_Kasparov_Kramnik_game9,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-22,9,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C67,Ruy Lopez
+80,2000_Kasparov_Kramnik_game10,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-24,10,Vladimir Kramnik,2770,Garry Kasparov,2849,1-0,E53,"Nimzo-Indian, 4.e3"
+81,2000_Kasparov_Kramnik_game11,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-26,11,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C78,Ruy Lopez
+82,2000_Kasparov_Kramnik_game12,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-28,12,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,E55,"Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation"
+83,2000_Kasparov_Kramnik_game13,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-29,13,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,C67,Ruy Lopez
+84,2000_Kasparov_Kramnik_game14,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-10-31,14,Vladimir Kramnik,2770,Garry Kasparov,2849,1/2-1/2,A15,English
+85,2000_Kasparov_Kramnik_game15,Kasparov - Kramnik Classical World Championship Match,London ENG,2000-11-02,15,Garry Kasparov,2849,Vladimir Kramnik,2770,1/2-1/2,E06,"Catalan, Closed, 5.Nf3"
+86,2010_Anand_Topalov_game1,Anand - Topalov World Championship Match,Sofia BUL,2010-04-24,1,Veselin Topalov,2805,Viswanathan Anand,2787,1-0,D86,"Grunfeld, Exchange"
+87,2010_Anand_Topalov_game2,Anand - Topalov World Championship Match,Sofia BUL,2010-04-25,2,Viswanathan Anand,2787,Veselin Topalov,2805,1-0,E04,"Catalan, Open, 5.Nf3"
+88,2010_Anand_Topalov_game3,Anand - Topalov World Championship Match,Sofia BUL,2010-04-27,3,Veselin Topalov,2805,Viswanathan Anand,2787,1/2-1/2,D17,Queen's Gambit Declined Slav
+89,2010_Anand_Topalov_game4,Anand - Topalov World Championship Match,Sofia BUL,2010-04-28,4,Viswanathan Anand,2787,Veselin Topalov,2805,1-0,E04,"Catalan, Open, 5.Nf3"
+90,2010_Anand_Topalov_game5,Anand - Topalov World Championship Match,Sofia BUL,2010-04-30,5,Veselin Topalov,2805,Viswanathan Anand,2787,1/2-1/2,D17,Queen's Gambit Declined Slav
+91,2010_Anand_Topalov_game6,Anand - Topalov World Championship Match,Sofia BUL,2010-05-01,6,Viswanathan Anand,2787,Veselin Topalov,2805,1/2-1/2,E04,"Catalan, Open, 5.Nf3"
+92,2010_Anand_Topalov_game7,Anand - Topalov World Championship Match,Sofia BUL,2010-05-03,7,Viswanathan Anand,2787,Veselin Topalov,2805,1/2-1/2,E10,Queen's Pawn Game
+93,2010_Anand_Topalov_game8,Anand - Topalov World Championship Match,Sofia BUL,2010-05-04,8,Veselin Topalov,2805,Viswanathan Anand,2787,1-0,D17,Queen's Gambit Declined Slav
+94,2010_Anand_Topalov_game9,Anand - Topalov World Championship Match,Sofia BUL,2010-05-06,9,Viswanathan Anand,2787,Veselin Topalov,2805,1/2-1/2,E53,"Nimzo-Indian, 4.e3"
+95,2010_Anand_Topalov_game10,Anand - Topalov World Championship Match,Sofia BUL,2010-05-07,10,Veselin Topalov,2805,Viswanathan Anand,2787,1/2-1/2,D86,"Grunfeld, Exchange"
+96,2010_Anand_Topalov_game11,Anand - Topalov World Championship Match,Sofia BUL,2010-05-09,11,Viswanathan Anand,2787,Veselin Topalov,2805,1/2-1/2,A29,"English, Four Knights, Kingside Fianchetto"
+97,2010_Anand_Topalov_game12,Anand - Topalov World Championship Match,Sofia BUL,2010-05-11,12,Veselin Topalov,2805,Viswanathan Anand,2787,0-1,D56,Queen's Gambit Declined
+98,2012_Anand_Gelfand_game1,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-11,1,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,D85,Grunfeld
+99,2012_Anand_Gelfand_game2,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-12,2,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D45,Queen's Gambit Declined Semi-Slav
+100,2012_Anand_Gelfand_game3,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-14,3,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,D70,Neo-Grunfeld Defense
+101,2012_Anand_Gelfand_game4,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-15,4,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D45,Queen's Gambit Declined Semi-Slav
+102,2012_Anand_Gelfand_game5,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-17,5,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,B33,Sicilian
+103,2012_Anand_Gelfand_game6,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-18,6,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D45,Queen's Gambit Declined Semi-Slav
+104,2012_Anand_Gelfand_game7,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-20,7,Boris Gelfand,?,Viswanathan Anand,?,1-0,D45,Queen's Gambit Declined Semi-Slav
+105,2012_Anand_Gelfand_game8,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-21,8,Viswanathan Anand,?,Boris Gelfand,?,1-0,D70,Neo-Grunfeld Defense
+106,2012_Anand_Gelfand_game9,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-23,9,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,E54,"Nimzo-Indian, 4.e3, Gligoric System"
+107,2012_Anand_Gelfand_game10,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-24,10,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,B30,Sicilian
+108,2012_Anand_Gelfand_game11,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-26,11,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,E54,"Nimzo-Indian, 4.e3, Gligoric System"
+109,2012_Anand_Gelfand_game12,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-28,12,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,B30,Sicilian
+110,2012_Anand_Gelfand_game13,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-30,13,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D45,Queen's Gambit Declined Semi-Slav
+111,2012_Anand_Gelfand_game14,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-30,14,Viswanathan Anand,?,Boris Gelfand,?,1-0,B30,Sicilian
+112,2012_Anand_Gelfand_game15,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-30,15,Boris Gelfand,?,Viswanathan Anand,?,1/2-1/2,D12,Queen's Gambit Declined Slav
+113,2012_Anand_Gelfand_game16,Anand - Gelfand World Championship Match,Moscow RUS,2012-05-30,16,Viswanathan Anand,?,Boris Gelfand,?,1/2-1/2,B51,"Sicilian, Canal-Sokolsky (Rossolimo) Attack"
+114,2021_Carlsen_Nepomniachtchi_game1,Carlsen - Nepomniachtchi World Championship Match,Dubai UAE,2021-11-26,1,Ian Nepomniachtchi,2782,Magnus Carlsen,2855,1/2-1/2,C88,Ruy Lopez
+115,2021_Carlsen_Nepomniachtchi_game2,Carlsen - Nepomniachtchi World Championship Match,Dubai UAE,2021-11-27,2,Magnus Carlsen,2855,Ian Nepomniachtchi,2782,1/2-1/2,E06,"Catalan, Closed, 5.Nf3"
+116,2021_Carlsen_Nepomniachtchi_game3,Carlsen - Nepomniachtchi World Championship Match,Dubai UAE,2021-11-28,3,Ian Nepomniachtchi,2782,Magnus Carlsen,2855,1/2-1/2,C88,Ruy Lopez
+117,2021_Carlsen_Nepomniachtchi_game4,FIDE World Championship 2021,Dubai UAE,2021-11-30,4.1,Magnus Carlsen,2855,Ian Nepomniachtchi,2782,1/2-1/2,C42,Petrov Defense
+118,2021_Carlsen_Nepomniachtchi_game5,FIDE World Championship 2021,Dubai UAE,2021-12-01,5.1,Ian Nepomniachtchi,2782,Magnus Carlsen,2855,1/2-1/2,A00,Uncommon Opening
+119,2021_Carlsen_Nepomniachtchi_game6,FIDE World Championship 2021,Dubai UAE,2021-12-03,6.1,"Carlsen, Magnus",2855,"Nepomniachtchi, Ian",2782,1-0,D02,Queen's Pawn Game
+120,2021_Carlsen_Nepomniachtchi_game7,FIDE World Championship 2021,Dubai UAE,2021-12-04,7.1,"Nepomniachtchi, Ian",2782,"Carlsen, Magnus",2855,1/2-1/2,C88,Ruy Lopez
+121,2021_Carlsen_Nepomniachtchi_game8,FIDE World Championship 2021,Dubai UAE,2021-12-05,8.1,"Carlsen, Magnus",2855,"Nepomniachtchi, Ian",2782,1-0,C43,"Petrov, Modern Attack"
+122,2021_Carlsen_Nepomniachtchi_game9,FIDE World Championship 2021,Dubai UAE,2021-12-07,9.1,"Nepomniachtchi, Ian",2782,"Carlsen, Magnus",2855,0-1,A13,English
+123,2021_Carlsen_Nepomniachtchi_game10,FIDE World Championship 2021,Dubai UAE,2021-12-08,10.1,"Carlsen, Magnus",2855,"Nepomniachtchi, Ian",2782,1/2-1/2,C42,Petrov Defense
+124,2021_Carlsen_Nepomniachtchi_game11,FIDE World Championship 2021,Dubai UAE,2021-12-10,11.1,"Nepomniachtchi, Ian",2782,"Carlsen, Magnus",2855,0-1,C53,Giuoco Piano
+125,2013_Anand_Carlsen_game1,Anand - Carlsen World Championship Match,Chennai IND,2013-11-09,1,Magnus Carlsen,2870,Viswanathan Anand,2775,1/2-1/2,A07,King's Indian Attack
+126,2013_Anand_Carlsen_game2,Anand - Carlsen World Championship Match,Chennai IND,2013-11-10,2,Viswanathan Anand,2775,Magnus Carlsen,2870,1/2-1/2,B18,"Caro-Kann, Classical"
+127,2013_Anand_Carlsen_game3,Anand - Carlsen World Championship Match,Chennai IND,2013-11-12,3,Magnus Carlsen,2870,Viswanathan Anand,2775,1/2-1/2,A07,King's Indian Attack
+128,2013_Anand_Carlsen_game4,Anand - Carlsen World Championship Match,Chennai IND,2013-11-13,4,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,C67,Ruy Lopez
+129,2013_Anand_Carlsen_game5,Anand - Carlsen World Championship Match,Chennai IND,2013-11-15,5,Magnus Carlsen,?,Viswanathan Anand,?,1-0,D31,Queen's Gambit Declined
+130,2013_Anand_Carlsen_game6,Anand - Carlsen World Championship Match,Chennai IND,2013-11-16,6,Viswanathan Anand,?,Magnus Carlsen,?,0-1,C65,"Ruy Lopez, Berlin Defense"
+131,2013_Anand_Carlsen_game7,Anand - Carlsen World Championship Match,Chennai IND,2013-11-18,7,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,C65,"Ruy Lopez, Berlin Defense"
+132,2013_Anand_Carlsen_game8,Anand - Carlsen World Championship Match,Chennai IND,2013-11-19,8,Magnus Carlsen,?,Viswanathan Anand,?,1/2-1/2,C67,Ruy Lopez
+133,2013_Anand_Carlsen_game9,Anand - Carlsen World Championship Match,Chennai IND,2013-11-21,9,Viswanathan Anand,?,Magnus Carlsen,?,0-1,E25,"Nimzo-Indian, Samisch"
+134,2013_Anand_Carlsen_game10,Anand - Carlsen World Championship Match,Chennai IND,2013-11-22,10,Magnus Carlsen,?,Viswanathan Anand,?,1/2-1/2,B51,"Sicilian, Canal-Sokolsky (Rossolimo) Attack"
+135,2014_Carlsen_Anand_game1,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-08,1,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,D85,Grunfeld
+136,2014_Carlsen_Anand_game2,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-09,2,Magnus Carlsen,?,Viswanathan Anand,?,1-0,C65,"Ruy Lopez, Berlin Defense"
+137,2014_Carlsen_Anand_game3,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-11,3,Viswanathan Anand,?,Magnus Carlsen,?,1-0,D37,Queen's Gambit Declined
+138,2014_Carlsen_Anand_game4,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-12,4,Magnus Carlsen,?,Viswanathan Anand,?,1/2-1/2,A07,King's Indian Attack
+139,2014_Carlsen_Anand_game5,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-14,5,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,E15,Queen's Indian
+140,2014_Carlsen_Anand_game6,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-15,6,Magnus Carlsen,?,Viswanathan Anand,?,1-0,B41,"Sicilian, Kan"
+141,2014_Carlsen_Anand_game7,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-17,7,Magnus Carlsen,?,Viswanathan Anand,?,1/2-1/2,C67,Ruy Lopez
+142,2014_Carlsen_Anand_game8,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-18,8,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,D37,Queen's Gambit Declined
+143,2014_Carlsen_Anand_game9,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-20,9,Magnus Carlsen,?,Viswanathan Anand,?,1/2-1/2,C67,Ruy Lopez
+144,2014_Carlsen_Anand_game10,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-21,10,Viswanathan Anand,?,Magnus Carlsen,?,1/2-1/2,D97,"Grunfeld, Russian"
+145,2014_Carlsen_Anand_game11,Carlsen - Anand World Championship Match,Sochi RUS,2014-11-23,11,Magnus Carlsen,?,Viswanathan Anand,?,1-0,C67,Ruy Lopez

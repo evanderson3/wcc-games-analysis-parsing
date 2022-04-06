@@ -1,0 +1,16 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2006_Kramnik_Topalov_game1,Kramnik - Topalov World Championship Match,Elista RUS,2006-09-23,1,Vladimir Kramnik,2743,Veselin Topalov,2813,1-0,E04,"Catalan, Open, 5.Nf3"
+1,2006_Kramnik_Topalov_game2,Kramnik - Topalov World Championship Match,Elista RUS,2006-09-24,2,Veselin Topalov,?,Vladimir Kramnik,?,0-1,D18,"Queen's Gambit Declined Slav, Dutch"
+2,2006_Kramnik_Topalov_game3,Kramnik - Topalov World Championship Match,Elista RUS,2006-09-26,3,Vladimir Kramnik,?,Veselin Topalov,?,1/2-1/2,E04,"Catalan, Open, 5.Nf3"
+3,2006_Kramnik_Topalov_game4,Kramnik - Topalov World Championship Match,Elista RUS,2006-09-27,4,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D47,Queen's Gambit Declined Semi-Slav
+4,2006_Kramnik_Topalov_game5,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-02,6,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D17,Queen's Gambit Declined Slav
+5,2006_Kramnik_Topalov_game6,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-04,7,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D27,"Queen's Gambit Accepted, Classical"
+6,2006_Kramnik_Topalov_game7,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-05,8,Vladimir Kramnik,?,Veselin Topalov,?,0-1,D47,Queen's Gambit Declined Semi-Slav
+7,2006_Kramnik_Topalov_game8,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-07,9,Veselin Topalov,?,Vladimir Kramnik,?,1-0,D12,Queen's Gambit Declined Slav
+8,2006_Kramnik_Topalov_game9,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-08,10,Vladimir Kramnik,?,Veselin Topalov,?,1-0,E10,Queen's Pawn Game
+9,2006_Kramnik_Topalov_game10,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-10,11,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D12,Queen's Gambit Declined Slav
+10,2006_Kramnik_Topalov_game11,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-12,12,Vladimir Kramnik,?,Veselin Topalov,?,1/2-1/2,D12,Queen's Gambit Declined Slav
+11,2006_Kramnik_Topalov_game12,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-13,13,Veselin Topalov,?,Vladimir Kramnik,?,1/2-1/2,D18,"Queen's Gambit Declined Slav, Dutch"
+12,2006_Kramnik_Topalov_game13,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-13,14,Vladimir Kramnik,?,Veselin Topalov,?,1-0,D45,Queen's Gambit Declined Semi-Slav
+13,2006_Kramnik_Topalov_game14,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-13,15,Veselin Topalov,?,Vladimir Kramnik,?,1-0,D12,Queen's Gambit Declined Slav
+14,2006_Kramnik_Topalov_game15,Kramnik - Topalov World Championship Match,Elista RUS,2006-10-13,16,Vladimir Kramnik,?,Veselin Topalov,?,1-0,D47,Queen's Gambit Declined Semi-Slav

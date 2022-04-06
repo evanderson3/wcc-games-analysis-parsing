@@ -1,0 +1,17 @@
+,game_id,event,site,date,round,white,white_elo,black,black_elo,result,eco,opening_name
+0,2016_Carlsen_Karjakin_game1,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-11,1,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,A45,Queen's Pawn Game
+1,2016_Carlsen_Karjakin_game2,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-12,2,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C78,Ruy Lopez
+2,2016_Carlsen_Karjakin_game3,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-14,3,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,C67,Ruy Lopez
+3,2016_Carlsen_Karjakin_game4,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-15,4,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C84,"Ruy Lopez, Closed"
+4,2016_Carlsen_Karjakin_game5,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-17,5,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,C50,Giuoco Piano
+5,2016_Carlsen_Karjakin_game6,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-18,6,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C84,"Ruy Lopez, Closed"
+6,2016_Carlsen_Karjakin_game7,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-20,7,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,D10,Queen's Gambit Declined Slav
+7,2016_Carlsen_Karjakin_game8,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-21,8,Magnus Carlsen,?,Sergey Karjakin,?,0-1,D05,Queen's Pawn Game
+8,2016_Carlsen_Karjakin_game9,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-23,9,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C78,Ruy Lopez
+9,2016_Carlsen_Karjakin_game10,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-24,10,Magnus Carlsen,?,Sergey Karjakin,?,1-0,C65,"Ruy Lopez, Berlin Defense"
+10,2016_Carlsen_Karjakin_game11,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-26,11,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C78,Ruy Lopez
+11,2016_Carlsen_Karjakin_game12,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-28,12,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,C67,Ruy Lopez
+12,2016_Carlsen_Karjakin_game13,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-30,13.1,Sergey Karjakin,?,Magnus Carlsen,?,1/2-1/2,C78,Ruy Lopez
+13,2016_Carlsen_Karjakin_game14,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-30,13.2,Magnus Carlsen,?,Sergey Karjakin,?,1/2-1/2,C50,Giuoco Piano
+14,2016_Carlsen_Karjakin_game15,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-30,13.3,Sergey Karjakin,?,Magnus Carlsen,?,0-1,C78,Ruy Lopez
+15,2016_Carlsen_Karjakin_game16,Carlsen - Karjakin World Championship Match,"New York, NY USA",2016-11-30,13.4,Magnus Carlsen,?,Sergey Karjakin,?,1-0,B54,Sicilian
